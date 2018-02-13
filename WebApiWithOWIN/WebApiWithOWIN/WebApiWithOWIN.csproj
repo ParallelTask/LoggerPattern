@@ -145,7 +145,6 @@
     <Compile Include="Logger\FileLogger.cs" />
     <Compile Include="Logger\IAppLogger.cs" />
     <Compile Include="NlogOwinModule.cs" />
-    <Compile Include="NlogStartup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ITest.cs" />
     <Compile Include="Services\Test.cs" />
